@@ -1,0 +1,73 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	font-style: arial;
+
+}
+p{
+	font-size: 25px;
+}
+.para{
+	text-align: justify;
+	text-justify: auto;
+	font-size: 22px;
+
+}
+a{
+	text-decoration: none;
+}
+
+.welcome{
+	text-align: right;
+	float: right;
+	font-size: 22px;
+	margin-right: 4%;
+}
+
+.textWrap{
+	width: 75%;
+	height: 30%;
+	
+	text-align: justify;
+	
+}
+.imgWrap{
+	width: 90%;
+	height: 75%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:;
+	margin-top: 3%;
+}
+
+.ImgRow{
+	height: 25%;
+	width: 100%;
+}
+img{ 
+	height: 80%;
+	width: 16%;
+	margin-left: 5%;
+}
+.footer{
+	width: 75%;
+	height: 10%;
+	
+	text-align: justify;
+	text-align: auto;
+}
+ul
+{
+
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-text: center;
+}
+
+li{
+	margin-right: 30px;
+}
